@@ -12,3 +12,9 @@
 * 🚀 Take a look at my data science collection. It’s packed with business solutions using machine learning techniques like classification, regression, and clustering.🌐🔍 You’ll also find exploratory data analysis and other data-related projects.📊🕵️‍♂️
   
 * [Click here to see my data science portfolio (EN)](https://github.com/vitorsbarboza/data-science-portfolio)
+
+
+## Contact me 🌍
+* [LinkedIn](https://www.linkedin.com/in/vitorsbarboza/)  
+* [GitHub](https://github.com/vitorsbarboza)
+* [E-mail](vitorsb2012@gmail.com)
