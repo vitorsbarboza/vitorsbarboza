@@ -4,9 +4,10 @@
 + 🚀 My passion? It’s all about machine learning, data science, stats, and math. I’m constantly tinkering with projects in these realms. Check out my data science portfolio below!
 + 📚 My toolkit includes Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, virtual environments, Flask), SQL, Git, and Github. Beyond the code, I thrive on self-directed learning, effective communication, and a results-driven mindset.
 
+<img src="https://github.com/vitorsbarboza/vitorsbarboza/blob/main/images/github-image-.jpg">
+
 ## [**Data Science Portfolio**](https://github.com/vitorsbarboza/data-science-portfolio)
 
-<img src="https://github.com/vitorsbarboza/vitorsbarboza/blob/main/images/github-image.jpg">
 
 * 🚀 Take a look at my data science collection. It’s packed with business solutions using machine learning techniques like classification, regression, and clustering.🌐🔍 You’ll also find exploratory data analysis and other data-related projects.📊🕵️‍♂️
   
