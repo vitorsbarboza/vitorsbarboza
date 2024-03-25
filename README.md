@@ -14,7 +14,7 @@
 * [Click here to see my data science portfolio (EN)](https://github.com/vitorsbarboza/data-science-portfolio)
 
 
-## Contact me 🌍
+## Contact me :headphones:
 * [LinkedIn](https://www.linkedin.com/in/vitorsbarboza/)  
 * [GitHub](https://github.com/vitorsbarboza)
 * [E-mail](vitorsb2012@gmail.com)
