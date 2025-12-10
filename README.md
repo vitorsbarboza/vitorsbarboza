@@ -51,6 +51,3 @@ While my AI Engineering projects are under construction, you can explore my exte
 
 * [**LinkedIn**](https://www.linkedin.com/in/vitorsbarboza/) - Let's talk about AI Agents and MLOps.
 * [**Portfolio**](https://github.com/vitorsbarboza) - Check my latest commits.
-* **Email:** vitorsb2012@gmail.com
-
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsbarboza&show_icons=true&theme=radical)
