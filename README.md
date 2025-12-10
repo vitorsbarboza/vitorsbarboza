@@ -1,21 +1,56 @@
-### Hey there! 🌟
+### Hi there! I'm Vitor Barboza 👋
 
-+ 👋 I’m Vitor Barboza, a 24-year-old Physics Engineering student at the Federal University of São Carlos. By day, I’m a data scientist at Vivo Telefonica, diving into datasets and crafting machine learning models to crack business challenges. 📊💡
-+ 🚀 My passion? It’s all about machine learning, data science, stats, and math. I’m constantly tinkering with projects in these realms. Check out my data science portfolio below!
-+ 📚 My toolkit includes Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, virtual environments, Flask), SQL, Git, and Github. Beyond the code, I thrive on self-directed learning, effective communication, and a results-driven mindset.
-+ 🤖 As a Machine Learning Engineer and IA Gen Engineer, I specialize in developing and deploying advanced machine learning models, including generative AI solutions. My expertise spans deep learning, neural networks, and AI-driven automation.
+**AI Engineer | LLMOps Specialist | Senior Data Scientist**
 
-<img src="https://github.com/vitorsbarboza/vitorsbarboza/blob/main/images/github-image-.jpg">
+I specialize in bridging the gap between statistical modeling and production engineering—taking complex algorithms from **"notebook to production"** in secure, scalable cloud environments.
 
-## [**Data Science Portfolio**](https://github.com/vitorsbarboza/data-science-portfolio)
+Currently, I lead advanced People Analytics and AI initiatives at **Vivo (Telefônica Brasil)**, architecting agentic workflows and predictive models. I am also a Master's Student in Computer Science (AI) at **Unicamp**.
 
+---
 
-* 🚀 Take a look at my data science collection. It’s packed with business solutions using machine learning techniques like classification, regression, and clustering 🌐🔍. You’ll also find exploratory data analysis and other data-related projects.📊🕵️‍♂️
-  
-* [Click here to see my data science portfolio (EN)](https://github.com/vitorsbarboza/data-science-portfolio)
+### 🚀 About Me
 
+* 🎓 **Background:** I hold a degree in **Engineering Physics** (UFSCar) and I'm pursuing an **M.Sc. in Computer Science/AI** at Unicamp [2025-2027]. My foundation is built on rigorous math and clean code.
+* 🤖 **Current Focus:** I am transitioning from traditional Data Science to **AI Engineering**. My passion lies in building **RAG systems**, **Multi-Agent orchestration** (CrewAI, LangGraph), and **secure Chatbots**.
+* 💼 **Experience:** With over 3 years in the field, I have experience optimizing churn prediction using **Vertex AI**, automating processes with **Generative AI**, and deploying models using **MLOps** best practices.
 
-## Contact me :headphones:
-* [LinkedIn](https://www.linkedin.com/in/vitorsbarboza/)  
-* [GitHub](https://github.com/vitorsbarboza)
-* [E-mail](vitorsb2012@gmail.com)
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+My expertise has evolved from core Data Science to full-stack AI Engineering:
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Generative AI & Agents** | LangChain, LangGraph, CrewAI, DSPy, PydanticAI, OpenAI API, Gemini Pro |
+| **Cloud & MLOps** | **GCP** (Vertex AI, BigQuery, Cloud Run), Docker, Apache Airflow, MLFlow |
+| **Data Science Core** | Python, SQL, Pandas, Scikit-learn, Bayesian Optimization (Optuna) |
+| **Deployment & Web** | FastAPI, Streamlit, React.js |
+
+---
+
+### 🚧 AI Engineering Roadmap (Projects in Progress)
+
+*I am currently building a dedicated portfolio focused on Generative AI and LLMOps. Stay tuned for upcoming repositories featuring:*
+
+* **Multi-Agent Recruitment System:** Automating resume screening using CrewAI and DSPy.
+* **Enterprise RAG Chatbots:** Secure document querying using Microsoft Copilot Studio and Vector Databases.
+* **LLM Evaluation Pipelines:** Implementing automated evaluation metrics for GenAI outputs.
+
+---
+
+### 📊 Data Science Portfolio
+
+While my AI Engineering projects are under construction, you can explore my extensive work in traditional Machine Learning (Classification, Regression, Clustering, and EDA):
+
+* [**📂 Access my Data Science Portfolio**](https://github.com/vitorsbarboza/data-science-portfolio)
+
+---
+
+### 📫 Let's Connect
+
+* [**LinkedIn**](https://www.linkedin.com/in/vitorsbarboza/) - Let's talk about AI Agents and MLOps.
+* [**Portfolio**](https://github.com/vitorsbarboza) - Check my latest commits.
+* **Email:** vitorsb2012@gmail.com
+
+![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorsbarboza&show_icons=true&theme=radical)
